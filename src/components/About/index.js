@@ -3,6 +3,14 @@ import React from 'react';
 function About() {
   return (
     <section class="about" id="about">
+            <br>
+            </br>
+            <br>
+            </br>
+            <br>
+            </br>
+            <br>
+            </br>
         <div class="about-container container text-center">
             <h2 class="about-title">About</h2>
             <p>Hello! I'm Arianna, a full stuck developer. I have the most experience using JavaScript and have a knack for code quality. Feel free to take a look at my work and get in touch!</p>
