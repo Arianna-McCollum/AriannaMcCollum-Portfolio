@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.44343c4f.chunk.css",
+    "main.js": "/React-Portfolio/static/js/main.0133dbeb.chunk.js",
+    "main.js.map": "/React-Portfolio/static/js/main.0133dbeb.chunk.js.map",
+    "runtime-main.js": "/React-Portfolio/static/js/runtime-main.020ee364.js",
+    "runtime-main.js.map": "/React-Portfolio/static/js/runtime-main.020ee364.js.map",
+    "static/js/2.1fe4e492.chunk.js": "/React-Portfolio/static/js/2.1fe4e492.chunk.js",
+    "static/js/2.1fe4e492.chunk.js.map": "/React-Portfolio/static/js/2.1fe4e492.chunk.js.map",
+    "static/js/3.9e354aaf.chunk.js": "/React-Portfolio/static/js/3.9e354aaf.chunk.js",
+    "static/js/3.9e354aaf.chunk.js.map": "/React-Portfolio/static/js/3.9e354aaf.chunk.js.map",
+    "index.html": "/React-Portfolio/index.html",
+    "static/css/main.44343c4f.chunk.css.map": "/React-Portfolio/static/css/main.44343c4f.chunk.css.map",
+    "static/js/2.1fe4e492.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.1fe4e492.chunk.js.LICENSE.txt",
+    "static/media/arianna-mccollum.png.1773759d.jpg": "/React-Portfolio/static/media/arianna-mccollum.png.1773759d.jpg",
+    "static/media/index.css": "/React-Portfolio/static/media/scoll-by.23df0c58.jpg",
+    "static/media/portfolio-1.e1312910.png": "/React-Portfolio/static/media/portfolio-1.e1312910.png",
+    "static/media/portfolio-2.f95baf99.png": "/React-Portfolio/static/media/portfolio-2.f95baf99.png",
+    "static/media/portfolio-3.04f05188.png": "/React-Portfolio/static/media/portfolio-3.04f05188.png",
+    "static/media/portfolio-4.edb4fff6.png": "/React-Portfolio/static/media/portfolio-4.edb4fff6.png",
+    "static/media/portfolio-5.1f437da4.png": "/React-Portfolio/static/media/portfolio-5.1f437da4.png",
+    "static/media/portfolio-6.c15b7dc0.png": "/React-Portfolio/static/media/portfolio-6.c15b7dc0.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.020ee364.js",
+    "static/js/2.1fe4e492.chunk.js",
+    "static/css/main.44343c4f.chunk.css",
+    "static/js/main.0133dbeb.chunk.js"
+  ]
+}
