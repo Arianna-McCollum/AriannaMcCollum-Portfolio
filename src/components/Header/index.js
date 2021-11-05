@@ -3,14 +3,14 @@ import profilePicture from "../../assets/profile/arianna-mccollum.png.jpg";
 
 function Header() {
   return (
-    <section class="hero" id="hero">
-        <div class="hero-cta">
+    <section className="hero" id="hero">
+        <div className="hero-cta" id="hero-cta">
             <h2>Arianna McCollum</h2>
             <p>
                 Full Stack Developer
             </p>
           </div>
-            <img class="me" src={profilePicture}/>
+            <img className="me" src={profilePicture}/>
     </section>
   );
 }
