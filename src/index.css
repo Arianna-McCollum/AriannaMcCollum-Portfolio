@@ -32,7 +32,10 @@ i.fab.fa-linkedin.fa-5x {
   margin-left: 50px;
 }
 
-
+i.fas.fa-link.fa-2x,
+i.fas.fa-github.fa-2x{
+  margin: 20px;
+}
 
 
 .form-control {
@@ -308,28 +311,10 @@ header nav ul li a:hover {
 }
 
 .portfolio-item-info h4 {
-  margin: 0 0 20px;
   font-weight: 700;
   color: #fff;
 }
 
-.portfolio-item-info a {
-  padding: 6px 7px 4px;
-  font-size: 12px;
-  border: 1px solid #fff;
-  border-radius: 50px;
-  color: #fff;
-  transition: color 0.25s ease-in-out, background-color 0.25s ease-in-out;
-  -moz-transition: color 0.25s ease-in-out, background-color 0.25s ease-in-out;
-  -webkit-transition: color 0.25s ease-in-out, background-color 0.25s ease-in-out;
-  -o-transition: color 0.25s ease-in-out, background-color 0.25s ease-in-out;
-  -ms-transition: color 0.25s ease-in-out, background-color 0.25s ease-in-out;
-}
-
-.portfolio-item-info a:hover {
-  color: #212121;
-  background-color: #fff;
-}
 
 .section-portfolio .btn {
   margin-top: 10px;

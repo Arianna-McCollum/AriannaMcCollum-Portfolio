@@ -16,63 +16,61 @@ function Portfolio() {
             <div class="row">
                 <div class="col-md-4 col-xs-6">
                     <div class="portfolio-item">
-                        <a href="https://reading-corner.herokuapp.com/">
                         <img src={project1} className="img-res"/>
                         <div class="portfolio-item-info">
                             <h4>Reading-Corner</h4>
+                            <a href="https://reading-corner.herokuapp.com/" target="_blank"><i className="fas fa-link fa-2x"></i></a>
+                            <a href="https://github.com/Electrolion/Reading-corner" target="_blank"><i className="fab fa-github fa-2x"></i></a>
                         </div>
-                        </a>
                     </div>
                 </div>
                 <div class="col-md-4 col-xs-6">
                     <div class="portfolio-item">
-                        <a href="https://electrolion.github.io/Create-a-date/">
                         <img src={project2} className="img-res"/>
                         <div class="portfolio-item-info">
                             <h4>Create-A-Date</h4>
+                            <a href="https://electrolion.github.io/Create-a-date/" target="_blank"><i className="fas fa-link fa-2x"></i></a>
+                            <a href="https://github.com/Electrolion/Create-a-date" target="_blank"><i className="fab fa-github fa-2x"></i></a>
                         </div>
-                        </a>
                     </div>
                 </div>
                 <div class="col-md-4 col-xs-6">
                     <div class="portfolio-item">
-                        <a href = "https://electrolion.github.io/Coding-Quiz/">
                         <img src={project3} className="img-res"/>
                         <div class="portfolio-item-info">
                             <h4>Coding Quiz</h4>
+                            <a href = "https://electrolion.github.io/Coding-Quiz/" target="_blank"><i className="fas fa-link fa-2x"></i></a>
+                            <a href="https://github.com/Electrolion/Coding-Quiz" target="_blank"><i className="fab fa-github fa-2x"></i></a>
                         </div>
-                        </a>
                     </div>
                 </div>
                 <div class="col-md-4 col-xs-6">
                     <div class="portfolio-item">
-                        <a href ="https://github.com/Electrolion/TeamProfileGenerator">
                         <img src={project4} className="img-res"/>
                         <div class="portfolio-item-info">
                             <h4>Team Generator</h4>
+                            <a href="https://github.com/Electrolion/TeamProfileGenerator" target="_blank"><i className="fab fa-github fa-2x"></i></a>
                         </div>
-                        </a>
                     </div>
                 </div>
                 <div class="col-md-4 col-xs-6">
                     <div class="portfolio-item">
-                        <a href="https://electrolion.github.io/Weather-Dashboard/">
                         <img src={project5} className="img-res"/>
                         <div class="portfolio-item-info">
                             <h4>Weather Dashboard</h4>
-                            
+                            <a href="https://electrolion.github.io/Weather-Dashboard/" target="_blank"><i className="fas fa-link fa-2x"></i></a>
+                            <a href="https://github.com/Electrolion/Weather-Dashboard" target="_blank"><i className="fab fa-github fa-2x"></i></a>
                         </div>
-                    </a>
                     </div>
                 </div>
-                <div class="col-md-4 col-xs-6">
-                    <div class="portfolio-item">
-                        <a href="https://note-taker-app-100.herokuapp.com/">
+                <div className="col-md-4 col-xs-6">
+                    <div className="portfolio-item">
                         <img src={project6} className="img-res"/>
-                        <div class="portfolio-item-info">
+                        <div className="portfolio-item-info">
                             <h4>Note Taker</h4>
+                            <a href="https://note-taker-app-100.herokuapp.com/" target="_blank"><i className="fas fa-link fa-2x"></i></a>
+                            <a href="https://github.com/Electrolion/note-taker" target="_blank"><i className="fab fa-github fa-2x"></i></a>
                         </div>
-                        </a>
                     </div>
                 </div>
             </div>
