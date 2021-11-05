@@ -34,28 +34,28 @@ function ContactForm() {
   };
 
   return (
-    <section id="contact" class="site-section section-form text-center">
+    <section id="contact" className="site-section section-form text-center mx-auto">
     <div class="container">
         <h3>Contact</h3>
-    <div class="row">
-      <form id="contact-form" onSubmit={handleSubmit}>
-      <div class="col-sm-6">
-          <input type="text" name="name" defaultValue={name} onBlur={handleChange} class="form-control mt-x-0" placeholder="Name" />
+      <form id="contact-form"onSubmit={handleSubmit}>
+      <div className="row">
+      <div className="col-sm-6">
+          <input type="text" name="name" defaultValue={name} onBlur={handleChange} className="form-control" placeholder="Name" />
         </div>
-        <div class="col-sm-6">
-          <input type="email" name="email" defaultValue={email} onBlur={handleChange} class="form-control mt-x-0" placeholder="Email" />
+        <div className="col-sm-6">
+          <input type="email" name="email" defaultValue={email} onBlur={handleChange} className="form-control" placeholder="Email" />
         </div>
-        <div class="col-sm-6">
-          <textarea name="message" rows="5" defaultValue={message} onBlur={handleChange} class="form-control mt-x-0" placeholder="Message" />
+        <div className="col-sm-12">
+          <textarea name="message" defaultValue={message} onBlur={handleChange} className="form-control" placeholder="Message" />
         </div>
         {errorMessage && (
           <div>
             <p className="error-text">{errorMessage}</p>
           </div>
         )}
-        <button class="btn contact-btn" type="submit">Submit</button>
+        </div>
+        <button className="contact-btn" type="submit">Submit</button>
       </form>
-    </div>
     </div>
     </section>
   );

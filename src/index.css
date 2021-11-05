@@ -187,6 +187,12 @@ header nav ul li a:hover {
   background-color: var(--secondary-color);
 }
 
+.contact-btn {
+  background-color: transparent;
+  color: #e27396;
+  border: 3px solid #e27396; 
+}
+
 .skill-title{
   color: var(--primary-color);
   font-size: 50px;
@@ -320,3 +326,20 @@ header nav ul li a:hover {
 .section-portfolio .btn {
   margin-top: 10px;
 }
+
+#contact {
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+
+.contact-btn {
+  background-color: transparent;
+  color: #e27396;
+  border: 3px solid #e27396; 
+  font-size: 20px;
+  margin-top: 20px;
+  padding: 10px;
+  border-radius: 10px 1px 10px 1px;
+  
+}
+
