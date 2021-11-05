@@ -27,6 +27,12 @@ i.fab.fa-github-square {
   color: var(--primary-color);
 }
 
+i.fab.fa-linkedin.fa-5x {
+  margin: 20px;
+  margin-left: 50px;
+}
+
+
 
 
 .form-control {
