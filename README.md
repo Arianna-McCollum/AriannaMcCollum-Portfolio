@@ -4,7 +4,11 @@
   
   ## Description
 This project was intended to convert a previous portfolio I have made into one the utilizes React.js for the frontend.
-  <br>
+
+Deployed App:
+<br>
+https://electrolion.github.io/React-Portfolio/
+<br>
   
   ## Table of Contents
   - [Description](#description)
