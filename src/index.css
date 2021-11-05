@@ -135,6 +135,21 @@ header nav ul li a:hover {
   text-shadow: none;
 }
 
+.navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link {
+  color: antiquewhite;
+}
+
+.navbar-light .navbar-nav .nav-link {
+  color: #212121;
+}
+
+.navbar-light .navbar-nav .nav-link:hover{
+  color: var(--tertiary-color);
+  text-shadow: none;
+}
+
+
+
 
 .hero {
   background-image: url('/src/assets/cover/hero.png');

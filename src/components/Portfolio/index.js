@@ -9,6 +9,10 @@ import project6 from "../../assets/projects/portfolio-6.png";
 function Portfolio() {
   return (
 <section id="portfolio" class="section-portfolio">
+            <br>
+            </br>
+            <br>
+            </br>
         <div class="container">
             <div class="text-center">
                 <h3 class="portfolio-title">Portfolio</h3>
