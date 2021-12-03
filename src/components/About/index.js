@@ -13,8 +13,8 @@ function About() {
             </br>
         <div class="about-container container text-center">
             <h2 class="about-title">About</h2>
-            <p>Hello! I'm Arianna, a full stuck developer. I have the most experience using JavaScript and have a knack for code quality. Feel free to take a look at my work and get in touch!</p>
-            <a href="./assets/img/Resume-Arianna-McCollum.pdf" class="btn btn-fill resume-btn" target="_blank" download>Download my resume</a>
+            <p>Hello! I'm Arianna, a full stack developer. I have the most experience using JavaScript and have a knack for code quality. Feel free to take a look at my work and get in touch!</p>
+            <a href="./assets/Resume-Arianna-McCollum.pdf" class="btn btn-fill resume-btn" target="_blank" download>Download my resume</a>
         </div>
         <div class="skills-container container">
             <div class="text-center">
