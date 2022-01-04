@@ -7,7 +7,7 @@ This project was intended to convert a previous portfolio I have made into one t
 
 Deployed App:
 <br>
-https://electrolion.github.io/React-Portfolio/
+https://electrolion.github.io/AriannaMcCollum-Portfolio/
 <br>
   
   ## Table of Contents
