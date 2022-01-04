@@ -1,0 +1,95 @@
+@media screen and (max-width: 1300px) {
+    header nav ul li a {
+        font-size: 2.55vw;
+
+      }
+
+}
+
+@media screen and (max-width: 770px) {
+    header {
+        display: block;
+    }
+    
+    header nav ul li a {
+        font-size: 3.75vw;
+    }
+
+    .hero-cta h2 {
+        font-size: 55px;
+    }
+
+    .me {
+        margin-top: 5%;
+        width: 40%;
+    }
+
+    .skill-box {
+        margin-bottom: 50px;
+    }
+
+}
+
+@media screen and (max-width: 650px) {
+    header {
+        padding: 6px 6px;
+    }
+    header nav ul li a {
+        font-size: 3.85vw;
+    }
+
+    .hero-cta h2 {
+        font-size: 45px;
+    }
+
+    .hero-cta p {
+        font-size: 20px;
+      }
+
+}
+
+@media screen and (max-width: 470px) {
+    header nav ul{
+        flex-wrap: nowrap;
+        margin: 0%;
+        padding: 0%;
+    }
+    
+    header nav ul li a {
+        font-weight: 900;
+        font-size: 3.45vw;
+    }
+
+    .hero-cta h2 {
+        font-size: 35px;
+    }
+
+    .hero-cta p {
+        font-size: 15px;
+      }
+
+}
+
+@media screen and (max-width: 400px) {
+
+    header nav ul li a {
+        font-size: 3.30vw;
+    }
+
+    .hero-cta h2 {
+        font-size: 30px;
+    }
+
+    .hero-cta p {
+        font-size: 10px;
+        font-weight: 700;
+      }
+
+}
+
+@media screen and (max-width: 330px) {
+    .skill {
+    width: 110%;
+    text-align: center;
+    }
+}
